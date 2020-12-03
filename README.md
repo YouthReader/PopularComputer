@@ -1,3 +1,12 @@
+---
+title: README
+date: 2020-12-03 18:24:35
+permalink: /pages/27c384/
+categories:
+  - PopularComputer
+tags:
+  - 
+---
 # 我们和计算机的进化
 
 计算机系统已经永久地改变了我们的生活。
